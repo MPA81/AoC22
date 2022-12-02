@@ -13,21 +13,28 @@ def checkit():
         main()
 
 def main():
+    # assign provided file to a variable, read only
     prod = open(argv[1], "r")
 
+    # variables for the upcooming calculations
     big = x = 0
 
+    # iterate thru the file
     for line in prod:
+        # remove those new lines
         line = line.strip("\n")
+        # every time we reach a blank line, reset variable x
         if line == '':
             x = 0
         else:
+            # add the current line to the value of x then compare to current largest value
             x += int(line) 
             if x > big:
                 big = x
 
+    # either show me the value or return it to be used further down the line
     print(big)
-    return big
+    # return big
 
 if __name__ == "__main__":
     checkit()
