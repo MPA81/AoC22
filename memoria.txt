@@ -1,0 +1,13 @@
+    AoC 2022 RECORD
+
+Day 1:
+    Task 1 - calories.py        | Time 17:34:00 | Rank 113882
+    Task 2 - caloriethree.py    | Time 18:57:18 | Rank 113461
+
+Day 2:
+    Task 1 - rps.py             | Time 00:45:32 | Rank 14607
+    Task 2 - rez.py             | Time 01:45:53 | Rank 19608
+
+Day 3:
+    Task 1 -
+    Task 2 -
