@@ -9,5 +9,13 @@ Day 2:
     Task 2 - rez.py             | Time 01:45:53 | Rank 19608
 
 Day 3:
+    Task 1 - rearange.py        | Time 00:40:37 | Rank 12274
+    Task 2 - badge-group.py     | Time 01:23:03 | Rank 14476
+
+Day 4:
+    Task 1 - clean.py           | Time 23:19:00 | Rank 98172
+    Task 2 - overlap.py         | Time 23:31:34 | Rank 96568
+
+Day 5:
     Task 1 -
     Task 2 -
