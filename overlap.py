@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# Day - Task
+# Day 4 - Task 2
 
 from sys import argv
 # argv allows us to input a file name as a command line argument
